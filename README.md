@@ -1,6 +1,6 @@
 # Pictures:
 
-#####Home screen:
+##### Home screen:
 ![webPic1](https://user-images.githubusercontent.com/90361755/211424359-fb44cd88-7f96-4b8f-a50b-46d4bca3afe4.PNG)
 
 Description: From home screen you can go to the menu screen either by clicking the "Order Now button" or by clicking the "Menu" tab on the header.
