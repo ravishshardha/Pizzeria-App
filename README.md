@@ -1,7 +1,11 @@
 # Pictures:
 
 Home screen:
-![alt text](http://url/to/img.png)
+![webPic1](https://user-images.githubusercontent.com/90361755/211424359-fb44cd88-7f96-4b8f-a50b-46d4bca3afe4.PNG)
+![webPic2](https://user-images.githubusercontent.com/90361755/211424372-685edd59-568f-481b-b3e8-452df5a2d440.PNG)
+![webPic2b](https://user-images.githubusercontent.com/90361755/211424392-707e4e4b-19e8-4e84-ae3a-f3497ed24a4d.PNG)
+![webPic3](https://user-images.githubusercontent.com/90361755/211424397-da82d531-6fe7-4024-ab7f-88b6970d1c7d.PNG)
+![webPic4](https://user-images.githubusercontent.com/90361755/211424400-677068e5-0a7f-4084-9ebb-2f82052f85ca.PNG)
 
 
 # Getting Started with Create React App
