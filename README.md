@@ -20,7 +20,7 @@ Description: Contact Screen allows users to send a direct message by inputting t
 ### Reorder:
 ![webPic4](https://user-images.githubusercontent.com/90361755/211424400-677068e5-0a7f-4084-9ebb-2f82052f85ca.PNG)
 
-Description: As the picture shows, this website adapts to changes in the screen size, if the screen is minimize, the header would change and summarize all the four options in a reorder icon.
+Description: As the picture shows, this website adapts to changes in the screen size. If the screen is minimize, the header would change and summarize all the four options in a reorder icon.
 
 # Getting Started with Create React App
 
