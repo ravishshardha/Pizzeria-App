@@ -6,15 +6,21 @@
 Description: From home screen you can go to the menu screen either by clicking the "Order Now button" or by clicking the "Menu" tab on the header.
 
 
-Menu Screen:
+### Menu Screen:
 ![webPic2](https://user-images.githubusercontent.com/90361755/211424372-685edd59-568f-481b-b3e8-452df5a2d440.PNG)
 ![webPic2b](https://user-images.githubusercontent.com/90361755/211424392-707e4e4b-19e8-4e84-ae3a-f3497ed24a4d.PNG)
 
-Description: Menu Screen will provide user a selection of 6 different pizzas which they select and order.
+Description: Menu Screen provides user a selection of 6 different pizzas which they select and order.
 
+### Contact Screen:
 ![webPic3](https://user-images.githubusercontent.com/90361755/211424397-da82d531-6fe7-4024-ab7f-88b6970d1c7d.PNG)
+
+Description: Contact Screen allows users to send a direct message by inputting their name and email address.
+
+### Reorder:
 ![webPic4](https://user-images.githubusercontent.com/90361755/211424400-677068e5-0a7f-4084-9ebb-2f82052f85ca.PNG)
 
+Description: As the picture shows, this website adapts to changes in the screen size, if the screen is minimize, the header would change and summarize all the four options in a reorder icon.
 
 # Getting Started with Create React App
 
